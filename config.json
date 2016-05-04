@@ -1,0 +1,5 @@
+{
+  "DataAccessPostgreSqlProvider": {
+    "ConnectionString": "HOST=127.0.0.1;PORT=5432;DATABASE=postgres;USER ID=postgres;PASSWORD=postgres;TIMEOUT=30"
+  }
+}
